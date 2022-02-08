@@ -2,7 +2,7 @@
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=BrandoZhang&show_icons=true" />
 
-- 🌱 I’m currently learning Computer Graphics.
+- 🌱 I’m currently learning Computer Graphics and Generative Models.
 - 👯 I’m looking to collaborate on AR/VR/3D Vision.
 - 📫 Email: `zhang [at] brando.dev`.
   
