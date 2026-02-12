@@ -2,9 +2,9 @@
 
 <img align=right src="https://github-readme-stats.vercel.app/api?username=BrandoZhang&show_icons=true" />
 
-- 🔭 I'm seeking SDE/MLE full-time positions for 2024.
-- 🧑🏻‍💻 Area of expertise: Web Services, Backend Development, Computer Graphics, Deep Learning and Generative Models.
-- 👯 I’m looking to collaborate on AR/VR/3D Vision.
+- 💼 I’m currently working on AIGC R&D at ByteDance.
+- 🧑🏻💻 Area of expertise: Web Services, Backend Development, Computer Graphics, Deep Learning and Generative Models.
+- 🤝 I’m open to collaborations in Image Generation, Video Generation, XR, and 3D Vision.
 - 📫 Email: `zhang [at] brando.dev`.
   
 
