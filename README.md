@@ -3,7 +3,7 @@
 <img align=right src="https://github-readme-stats.vercel.app/api?username=BrandoZhang&show_icons=true" />
 
 - 💼 I’m currently working as AIGC R&D at ByteDance.
-- Area of expertise: Web Services, Backend Development, Computer Graphics, Deep Learning and Generative Models.
+- 💻 Area of expertise: Web Services, Backend Development, Computer Graphics, Deep Learning and Generative Models.
 - 🤝 I’m open to collaborations in Image Generation, Video Generation, XR, and 3D Vision.
 - 📫 Email: `zhang [at] brando.dev`.
   
